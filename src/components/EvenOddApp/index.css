@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffffffff;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  background-image: linear-gradient(to Bottom, #ff6e7f, #bfe9ff);
+  width: 40%;
+  height: 50%;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.heading {
+  color: #0f172a;
+  margin-top: 40px;
+  padding-top: 45px;
+}
+.pera {
+  color: #334155;
+  font-size: 25px;
+}
+
+.pera1 {
+  color: #334155;
+  font-weight: 400;
+}
+
+.button {
+  background-color: #ffffff;
+  color: #1e293b;
+  font-weight: 400;
+  padding: 10px;
+  width: 150px;
+  font-size: 18px;
+  border-radius: 10px;
+}
